@@ -68,7 +68,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Beer.NET">
-      <HintPath>..\packages\Beer.NET.0.1.2.0\lib\Beer.NET.dll</HintPath>
+      <HintPath>..\packages\Beer.NET.0.2.0\lib\Beer.NET.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
